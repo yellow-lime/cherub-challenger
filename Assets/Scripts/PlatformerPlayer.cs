@@ -19,6 +19,10 @@ public class PlatformerPlayer : MonoBehaviour
 
     public LayerMask platformsLayerMask;
 
+    public float stabDuration; // in seconds
+    private bool isStabbing;
+    public GameObject sword;
+
     // public int maxJumps = 1;
     // private int jumpsLeft;
 
@@ -56,6 +60,12 @@ public class PlatformerPlayer : MonoBehaviour
         {
             ChangeSpriteFacing(x);
         }
+
+        if (!isStabbing && Input.GetButtonDown("Fire1"))
+        {
+            Debug.Log("stab");
+            Stab();
+        }
     }
 
     private void ChangeSpriteFacing(float x)
@@ -72,7 +82,20 @@ public class PlatformerPlayer : MonoBehaviour
     private bool IsGrounded()
     {
         RaycastHit2D raycastHit2D = Physics2D.BoxCast(boxCollider2D.bounds.center, boxCollider2D.bounds.size, 0f, Vector2.down, .1f, platformsLayerMask);
-        Debug.Log(raycastHit2D.collider);
         return raycastHit2D.collider != null;
+    }
+
+    private IEnumerator Stab()
+    {
+        SetStabbingBools(true);
+        yield return new WaitForSeconds(stabDuration);
+        SetStabbingBools(false);
+    }
+
+    private void SetStabbingBools(bool stabbing)
+    {
+        isStabbing = stabbing;
+        animator.SetBool("isStabbing", stabbing);
+        sword.SetActive(stabbing);
     }
 }

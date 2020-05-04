@@ -28,14 +28,15 @@ public class HpController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.otherCollider.gameObject.tag == "Sword" && !isInvincible)
+        if(collision.otherCollider.gameObject.tag == hostileTag && !isInvincible)
         {
             hp -= 1;
             hitSound.Play();
-            isInvincible = true;
             Color invColor = spriteRenderer.color;
             invColor.a = invincibilityAlpha;
             spriteRenderer.color = invColor;
+            isInvincible = true;
+            animator.SetBool("isHit", true);
             StartCoroutine(OnEndHitAnimation());
             StartCoroutine(OnEndInvincibility());
         }
@@ -44,7 +45,7 @@ public class HpController : MonoBehaviour
     IEnumerator OnEndHitAnimation()
     {
         yield return new WaitForSeconds(hitAnimationSeconds);
-        isInvincible = false;
+        animator.SetBool("isHit", false);
     }
 
     IEnumerator OnEndInvincibility()
