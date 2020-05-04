@@ -9,7 +9,9 @@ public class GameController : MonoBehaviour
     public int highScore;
     public int initialSeconds;
     private int score = 0;
-    
+
+    public string gameOverSceneName;
+
     [Tooltip("Ref to the text with the 'time left' value.")]
     public Text textTime;
     public Text textScore;
@@ -42,7 +44,7 @@ public class GameController : MonoBehaviour
             UpdateSecondsLeft(-1);
         }
 
-        if(Input.GetKeyDown(KeyCode.R)){
+        if(Debug.isDebugBuild && Input.GetKeyDown(KeyCode.R)){
             RestartGame();
         }
     }
@@ -71,6 +73,6 @@ public class GameController : MonoBehaviour
         {
             PlayerPrefs.SetInt("highScore", score);
         }
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(gameOverSceneName, LoadSceneMode.Additive);
     }
 }
