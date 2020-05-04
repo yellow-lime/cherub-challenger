@@ -4,15 +4,32 @@ using UnityEngine;
 
 public class PlatformerPlayer : MonoBehaviour
 {
-    public List<SpriteRenderer> spriteRenderers;
+    [Tooltip("Whether the gameObject is facing right.")]
     public bool facingRight;
-    public float speed = 5f;
-    public float jumpForce = 8f;
+    [Tooltip("Seconds left in the current level.")]
+    public float runSpeed = 5f;
+    public float jumpSpeed = 8f;
+    [Tooltip("Horizontal control while in the air (0-1).")]
+    public float airRunCoef = .5f;
+
+    public SpriteRenderer spriteRenderer;
+    public Animator animator;
+    public Rigidbody2D rigidBody2D;
+    public CapsuleCollider2D boxCollider2D;
+
+    public LayerMask platformsLayerMask;
+
+    // public int maxJumps = 1;
+    // private int jumpsLeft;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        // jumpsLeft = maxJumps;
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        rigidBody2D = GetComponent<Rigidbody2D>();
+        boxCollider2D = GetComponent<CapsuleCollider2D>();
     }
 
     Vector3 up = Vector3.up;
@@ -21,14 +38,19 @@ public class PlatformerPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 oldPos = this.gameObject.transform.position;
-        float x = Input.GetAxis("Horizontal") * Time.deltaTime * speed;
-        // float y = Input.GetAxis("Vertical") * Time.deltaTime * speed;
-        this.gameObject.GetComponent<Rigidbody2D>().AddForce(x * right, ForceMode2D.Impulse);
-
-        if(Input.GetButtonDown("Jump")){
+        bool isGrounded = IsGrounded();
+        if (isGrounded && Input.GetButtonDown("Jump"))
+        {
             Jump();
         }
+        animator.SetBool("isGrounded", isGrounded); // FIXME too suboptimal
+
+        float jumpModifier = isGrounded ? 1 : airRunCoef;
+        float x = Input.GetAxis("Horizontal") * Time.deltaTime * runSpeed * jumpModifier;
+        rigidBody2D.velocity = new Vector2(x, rigidBody2D.velocity.y);
+
+        animator.SetFloat("speed", System.Math.Abs(x));
+        
 
         if ((facingRight && x < 0) || (!facingRight && x > 0))
         {
@@ -39,14 +61,18 @@ public class PlatformerPlayer : MonoBehaviour
     private void ChangeSpriteFacing(float x)
     {
         facingRight = !facingRight;
-        foreach (SpriteRenderer sr in spriteRenderers)
-        {
-            sr.flipX = !sr.flipX;
-        }
+        spriteRenderer.flipX = !spriteRenderer.flipX;
     }
 
     public void Jump()
     {
-        GetComponent<Rigidbody2D>().AddForce(up * jumpForce, ForceMode2D.Impulse);
+        rigidBody2D.velocity = new Vector2(rigidBody2D.velocity.x, jumpSpeed);
+    }
+
+    private bool IsGrounded()
+    {
+        RaycastHit2D raycastHit2D = Physics2D.BoxCast(boxCollider2D.bounds.center, boxCollider2D.bounds.size, 0f, Vector2.down, .1f, platformsLayerMask);
+        Debug.Log(raycastHit2D.collider);
+        return raycastHit2D.collider != null;
     }
 }

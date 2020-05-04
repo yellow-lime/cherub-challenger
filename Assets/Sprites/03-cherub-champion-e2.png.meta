@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 5e18c3358174de6469f33103588304b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8599322804592197880
+    second: 03-cherub-champion-e2_0
+  - first:
+      213: -5487694980700071441
+    second: 03-cherub-champion-e2_1
+  - first:
+      213: -602501203990232841
+    second: 03-cherub-champion-e2_2
+  - first:
+      213: -1612145104062839194
+    second: 03-cherub-champion-e2_3
+  - first:
+      213: 7244701197752221003
+    second: 03-cherub-champion-e2_4
+  - first:
+      213: 4151491707700808168
+    second: 03-cherub-champion-e2_5
+  - first:
+      213: 4035560982066066058
+    second: 03-cherub-champion-e2_6
+  - first:
+      213: 1731980864802757210
+    second: 03-cherub-champion-e2_7
+  - first:
+      213: -7376001277988575132
+    second: 03-cherub-champion-e2_8
+  - first:
+      213: 7556985411129923425
+    second: 03-cherub-champion-e2_9
+  - first:
+      213: 2537101039178212564
+    second: 03-cherub-champion-e2_10
+  - first:
+      213: -2862634437320078842
+    second: 03-cherub-champion-e2_11
+  - first:
+      213: 962083315658351411
+    second: 03-cherub-champion-e2_12
+  - first:
+      213: -956626148696420738
+    second: 03-cherub-champion-e2_13
+  - first:
+      213: -3572530002762817839
+    second: 03-cherub-champion-e2_14
+  - first:
+      213: -6127297983970746260
+    second: 03-cherub-champion-e2_15
+  - first:
+      213: 6015418139645271886
+    second: 03-cherub-champion-e2_16
+  - first:
+      213: 2290043226012363583
+    second: 03-cherub-champion-e2_17
+  - first:
+      213: -2851611232519246768
+    second: 03-cherub-champion-e2_18
+  - first:
+      213: 7540807850792740405
+    second: 03-cherub-champion-e2_19
+  - first:
+      213: 7054717822348229170
+    second: 03-cherub-champion-e2_20
+  - first:
+      213: -6332987466796353236
+    second: 03-cherub-champion-e2_21
+  - first:
+      213: 1498535595038902874
+    second: 03-cherub-champion-e2_22
+  - first:
+      213: -4207396169512901960
+    second: 03-cherub-champion-e2_23
+  - first:
+      213: 834907173878976916
+    second: 03-cherub-champion-e2_24
+  - first:
+      213: 8804100997447847098
+    second: 03-cherub-champion-e2_25
+  - first:
+      213: 4741707696080144159
+    second: 03-cherub-champion-e2_26
+  - first:
+      213: 5336098919953321585
+    second: 03-cherub-champion-e2_27
+  - first:
+      213: -1000001401012662004
+    second: 03-cherub-champion-e2_28
+  - first:
+      213: -8776290446291263105
+    second: 03-cherub-champion-e2_29
+  - first:
+      213: 8635566493748908862
+    second: 03-cherub-champion-e2_30
+  - first:
+      213: 2125217515984129080
+    second: 03-cherub-champion-e2_31
+  - first:
+      213: 3184439371559462080
+    second: 03-cherub-champion-e2_32
+  - first:
+      213: 5464267393885889674
+    second: 03-cherub-champion-e2_33
+  - first:
+      213: 4592783750797579626
+    second: 03-cherub-champion-e2_34
+  - first:
+      213: -4721970435865142850
+    second: 03-cherub-champion-e2_35
+  - first:
+      213: -7014399331154120341
+    second: 03-cherub-champion-e2_36
+  - first:
+      213: -5501479556952432841
+    second: 03-cherub-champion-e2_37
+  - first:
+      213: 961431600755114374
+    second: 03-cherub-champion-e2_38
+  - first:
+      213: -6906199758385470818
+    second: 03-cherub-champion-e2_39
+  - first:
+      213: 9068676495804279726
+    second: 03-cherub-champion-e2_40
+  - first:
+      213: -2000908242714767935
+    second: 03-cherub-champion-e2_41
+  - first:
+      213: -4079451708949537722
+    second: 03-cherub-champion-e2_42
+  - first:
+      213: 981842081532456706
+    second: 03-cherub-champion-e2_43
+  - first:
+      213: 4857424547780912552
+    second: 03-cherub-champion-e2_44
+  - first:
+      213: -7628031397558628108
+    second: 03-cherub-champion-e2_45
+  - first:
+      213: -7573023042247988526
+    second: 03-cherub-champion-e2_46
+  - first:
+      213: 1958895351199666001
+    second: 03-cherub-champion-e2_47
+  - first:
+      213: 2809490645195722694
+    second: 03-cherub-champion-e2_48
+  - first:
+      213: -8146322061374273579
+    second: 03-cherub-champion-e2_0
+  - first:
+      213: 8657155733655076038
+    second: 03-cherub-champion-e2_1
+  - first:
+      213: -7942885964036053764
+    second: 03-cherub-champion-e2_2
+  - first:
+      213: -6204520320180233708
+    second: 03-cherub-champion-e2_3
+  - first:
+      213: -2945520055404604098
+    second: 03-cherub-champion-e2_4
+  - first:
+      213: -8608205574186637347
+    second: 03-cherub-champion-e2_5
+  - first:
+      213: -9197871930394026933
+    second: 03-cherub-champion-e2_6
+  - first:
+      213: 6747900734339346536
+    second: 03-cherub-champion-e2_7
+  - first:
+      213: -8969906114909996749
+    second: 03-cherub-champion-e2_8
+  - first:
+      213: -4747070246195814726
+    second: 03-cherub-champion-e2_9
+  - first:
+      213: -4290895416360303643
+    second: 03-cherub-champion-e2_10
+  - first:
+      213: 7455969248684062718
+    second: 03-cherub-champion-e2_11
+  - first:
+      213: 7460881642951376802
+    second: 03-cherub-champion-e2_12
+  - first:
+      213: -6623311709179155080
+    second: 03-cherub-champion-e2_13
+  - first:
+      213: -6341583843974583064
+    second: 03-cherub-champion-e2_14
+  - first:
+      213: 8689739338790956885
+    second: 03-cherub-champion-e2_15
+  - first:
+      213: 597970450935284459
+    second: 03-cherub-champion-e2_16
+  - first:
+      213: -4128705765648184398
+    second: 03-cherub-champion-e2_17
+  - first:
+      213: -2864328919769664979
+    second: 03-cherub-champion-e2_18
+  - first:
+      213: 4953905654351803082
+    second: 03-cherub-champion-e2_19
+  - first:
+      213: 1206775384198668950
+    second: 03-cherub-champion-e2_20
+  - first:
+      213: 6536656365075645749
+    second: 03-cherub-champion-e2_21
+  - first:
+      213: -6764503180689417706
+    second: 03-cherub-champion-e2_22
+  - first:
+      213: 4992516416716158399
+    second: 03-cherub-champion-e2_23
+  - first:
+      213: 1286808526653875401
+    second: 03-cherub-champion-e2_24
+  - first:
+      213: 5252804276109618682
+    second: 03-cherub-champion-e2_25
+  - first:
+      213: -4335794971751803149
+    second: 03-cherub-champion-e2_26
+  - first:
+      213: 3287723125161676854
+    second: 03-cherub-champion-e2_27
+  - first:
+      213: 7646040586716571946
+    second: 03-cherub-champion-e2_28
+  - first:
+      213: -2134170412098280986
+    second: 03-cherub-champion-e2_29
+  - first:
+      213: 9022359348317302195
+    second: 03-cherub-champion-e2_30
+  - first:
+      213: -8746268983354636701
+    second: 03-cherub-champion-e2_31
+  - first:
+      213: 7372579036325646854
+    second: 03-cherub-champion-e2_32
+  - first:
+      213: 2560527229159414077
+    second: 03-cherub-champion-e2_33
+  - first:
+      213: 228890080393519387
+    second: 03-cherub-champion-e2_34
+  - first:
+      213: 5537906167157592876
+    second: 03-cherub-champion-e2_35
+  - first:
+      213: 7437432814141438524
+    second: 03-cherub-champion-e2_36
+  - first:
+      213: 1461347262450749831
+    second: 03-cherub-champion-e2_37
+  - first:
+      213: 8841555895621432916
+    second: 03-cherub-champion-e2_38
+  - first:
+      213: -6581715256058539031
+    second: 03-cherub-champion-e2_39
+  - first:
+      213: 2953594886686527891
+    second: 03-cherub-champion-e2_40
+  - first:
+      213: 146322686929641645
+    second: 03-cherub-champion-e2_41
+  - first:
+      213: -5091113074363803524
+    second: 03-cherub-champion-e2_42
+  - first:
+      213: -30575595349772520
+    second: 03-cherub-champion-e2_43
+  - first:
+      213: 6231874069518963701
+    second: 03-cherub-champion-e2_44
+  - first:
+      213: -1210045887339751518
+    second: 03-cherub-champion-e2_45
+  - first:
+      213: 2148587640222474999
+    second: 03-cherub-champion-e2_46
+  - first:
+      213: -6959399718140649710
+    second: 03-cherub-champion-e2_47
+  - first:
+      213: 9009340350537535725
+    second: 03-cherub-champion-e2_48
+  - first:
+      213: 3293749820074941320
+    second: 03-cherub-champion-e2_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7cbd90f3372fe80800000000000000
+      internalID: -8146322061374273579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc3fbda545642870800000000000000
+      internalID: 8657155733655076038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e1368c4335c190800000000000000
+      internalID: -7942885964036053764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad6f944ad15e9a0800000000000000
+      internalID: -6204520320180233708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d1da9d196f17d0800000000000000
+      internalID: -2945520055404604098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7611573a2898880800000000000000
+      internalID: -8608205574186637347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd35336389a5080800000000000000
+      internalID: -9197871930394026933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f4e947fb55ad50800000000000000
+      internalID: 6747900734339346536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397f20c9ed748380800000000000000
+      internalID: -8969906114909996749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe1cab13c40f1eb0800000000000000
+      internalID: -4747070246195814726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e30e7b5a5da374c0800000000000000
+      internalID: -4290895416360303643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7bc0c378ce87760800000000000000
+      internalID: 7455969248684062718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af795723506a8760800000000000000
+      internalID: 7460881642951376802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de0b1a7154514a0800000000000000
+      internalID: -6623311709179155080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece982d71b2ef7a0800000000000000
+      internalID: -6341583843974583064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6f5f63e7289870800000000000000
+      internalID: 8689739338790956885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28d2af4fa6c4800800000000000000
+      internalID: 597970450935284459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbce602bf3e3b6c0800000000000000
+      internalID: -4128705765648184398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d223049f50cdf38d0800000000000000
+      internalID: -2864328919769664979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2307a12fecfb440800000000000000
+      internalID: 4953905654351803082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e8d271d35fb010800000000000000
+      internalID: 1206775384198668950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354123d45ed6ba50800000000000000
+      internalID: 6536656365075645749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad1017238af12a0800000000000000
+      internalID: -6764503180689417706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb53ca1ca3bf84540800000000000000
+      internalID: 4992516416716158399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e5258989abd110800000000000000
+      internalID: 1286808526653875401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdaa2898a5b5e840800000000000000
+      internalID: 5252804276109618682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f61fc9f17924d3c0800000000000000
+      internalID: -4335794971751803149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630591363c650ad20800000000000000
+      internalID: 3287723125161676854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e57537613c1a60800000000000000
+      internalID: 7646040586716571946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1abb84157e162e0800000000000000
+      internalID: -2134170412098280986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda068560cd53d70800000000000000
+      internalID: 9022359348317302195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366412903b20f9680800000000000000
+      internalID: -8746268983354636701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6029eaa6299a05660800000000000000
+      internalID: 7372579036325646854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3913cbd2f1d88320800000000000000
+      internalID: 2560527229159414077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11677eb05e2d2300800000000000000
+      internalID: 228890080393519387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239fd461589adc40800000000000000
+      internalID: 5537906167157592876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3afbbf3db1173760800000000000000
+      internalID: 7437432814141438524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781ddd7b79fb74410800000000000000
+      internalID: 1461347262450749831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456b6441e3483ba70800000000000000
+      internalID: 8841555895621432916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e39cd598dc09a4a0800000000000000
+      internalID: -6581715256058539031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915c5f86e64df820800000000000000
+      internalID: 2953594886686527891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a50165b7d70200800000000000000
+      internalID: 146322686929641645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d23bf1abb859b0800000000000000
+      internalID: -5091113074363803524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817716478af539ff0800000000000000
+      internalID: -30575595349772520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f355a6c2701c7650800000000000000
+      internalID: 6231874069518963701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a711333dad053fe0800000000000000
+      internalID: -1210045887339751518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f26148331151dd10800000000000000
+      internalID: 2148587640222474999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fd54e24de3b6f90800000000000000
+      internalID: -6959399718140649710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01266b05b970d70800000000000000
+      internalID: 9009340350537535725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-cherub-champion-e2_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd294a200c5bd20800000000000000
+      internalID: 3293749820074941320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

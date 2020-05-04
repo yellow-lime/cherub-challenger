@@ -1,20 +1,34 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Blink : MonoBehaviour
 {
+    [Tooltip("Time it stays visible, in seconds.")]
     public float blinkPeriod;
+    [Tooltip("Time it stays invisible, in seconds.")]
     public float blinkDuration;
-    private float timeToToggle;
+    [Tooltip("Is currently in the process of blinking (be it visible or invisible).")]
+    public bool isBlinking = true;
 
-    // Update is called once per frame
-    void Update()
+    private Text text;
+
+    private void Start()
     {
-        timeToToggle -= Time.deltaTime;
-        if(timeToToggle < 0f){
-            this.gameObject.SetActive(!this.gameObject.activeSelf);
-            timeToToggle = (this.gameObject.activeSelf ? blinkPeriod : blinkDuration);
+        text = GetComponent<Text>();
+        StartCoroutine(onBlink());
+    }
+
+    IEnumerator onBlink()
+    {
+        while (isBlinking)
+        {
+            text.enabled = !text.enabled;
+            if (text.enabled)
+            {
+                yield return new WaitForSeconds(blinkPeriod);
+            } else yield return new WaitForSeconds(blinkDuration);
         }
     }
 }
